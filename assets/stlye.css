@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+/* footer {
+  margin-top: 50px;
+  align-items: center;
+} */
+ /* p{
+  margin-left: 20px;
+ } */
+
+.container {
+  margin: 50vh 100px 50vh 100px;
+}
+
+.column1, .column2, .column3 {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  height: 500px;
+  text-align: center;
+}
